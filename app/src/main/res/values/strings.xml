@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">programmer calculator</string>
+    <string-array name="systems">
+        <item>Decimal</item>
+        <item>Binary</item>
+        <item>Octal</item>
+        <item>Hex</item>
+    </string-array>
+</resources>
